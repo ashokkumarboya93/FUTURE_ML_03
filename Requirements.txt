@@ -50,7 +50,3 @@ It suggests books based on user input (genre, author, past reads).
 
 The model improves with feedback and NLP techniques.
 
-Example Prediction:
-
-👤 User: "Recommend me a sci-fi novel like Dune."
-🤖 Chatbot: "You might love Foundation by Isaac Asimov or Neuromancer by William Gibson!"
