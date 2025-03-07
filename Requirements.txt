@@ -1,0 +1,56 @@
+Requirements for AI-Powered Book Recommendation Chatbot
+
+📌 Overview
+
+This file lists all the necessary dependencies to run the AI-powered book recommendation chatbot project. Below is a full representation of the required libraries, their purpose, and installation commands.
+
+🔹 Libraries & Their Usage
+
+1️⃣ Core Libraries
+
+numpy → Used for numerical computations
+
+pandas → Data handling and preprocessing
+
+scikit-learn → Machine learning models and feature extraction
+
+2️⃣ Natural Language Processing (NLP)
+
+nltk → Tokenization, stemming, stopwords removal
+
+chatterbot → AI-based chatbot framework
+
+chatterbot_corpus → Predefined chatbot training datasets
+
+3️⃣ Web & Deployment
+
+flask → Web framework to deploy the chatbot
+
+4️⃣ Data Visualization
+
+matplotlib → Graph plotting
+
+seaborn → Advanced statistical visualization
+
+🔹 Installation Guide
+
+To install all dependencies, run:
+
+pip install -r requirements.txt
+
+If you prefer installing manually:
+
+pip install numpy pandas scikit-learn nltk chatterbot chatterbot_corpus flask matplotlib seaborn
+
+🚀 Results & Model Performance
+
+The chatbot understands user queries about book recommendations.
+
+It suggests books based on user input (genre, author, past reads).
+
+The model improves with feedback and NLP techniques.
+
+Example Prediction:
+
+👤 User: "Recommend me a sci-fi novel like Dune."
+🤖 Chatbot: "You might love Foundation by Isaac Asimov or Neuromancer by William Gibson!"
